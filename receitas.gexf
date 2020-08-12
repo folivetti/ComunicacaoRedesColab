@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-08-05">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="country" type="string" />
+      <attribute id="1" title="category" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Kidney Bean Curry" label="Kidney Bean Curry">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Dal fry" label="Dal fry">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Garides Saganaki" label="Garides Saganaki">
+        <attvalues>
+          <attvalue for="0" value="Greek" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Turkey Meatloaf" label="Turkey Meatloaf">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Miscellaneous" />
+        </attvalues>
+      </node>
+      <node id="Battenberg Cake" label="Battenberg Cake">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chicken Handi" label="Chicken Handi">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Beef and Oyster pie" label="Beef and Oyster pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Hot and Sour Soup" label="Hot and Sour Soup">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Spaghetti Bolognese" label="Spaghetti Bolognese">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Eccles Cakes" label="Eccles Cakes">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Fish pie" label="Fish pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Osso Buco alla Milanese" label="Osso Buco alla Milanese">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Miscellaneous" />
+        </attvalues>
+      </node>
+      <node id="Spinach &amp; Ricotta Cannelloni" label="Spinach &amp; Ricotta Cannelloni">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Chocolate Gateau" label="Chocolate Gateau">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="General Tso's Chicken" label="General Tso's Chicken">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Szechuan Beef" label="Szechuan Beef">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Tarte Tatin" label="Tarte Tatin">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Spicy Arrabiata Penne" label="Spicy Arrabiata Penne">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Vegetarian Casserole" label="Vegetarian Casserole">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Braised Beef Chili" label="Braised Beef Chili">
+        <attvalues>
+          <attvalue for="0" value="Mexican" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Venetian Duck Ragu" label="Venetian Duck Ragu">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Pasta" />
+        </attvalues>
+      </node>
+      <node id="Three-cheese souffles" label="Three-cheese souffles">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Miscellaneous" />
+        </attvalues>
+      </node>
+      <node id="Chocolate Raspberry Brownies" label="Chocolate Raspberry Brownies">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Boulangere Potatoes" label="Boulangere Potatoes">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Side" />
+        </attvalues>
+      </node>
+      <node id="Fish Stew with Rouille" label="Fish Stew with Rouille">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Salted Caramel Cheescake" label="Salted Caramel Cheescake">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Sticky Toffee Pudding Ultimate" label="Sticky Toffee Pudding Ultimate">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Beef Sunday Roast" label="Beef Sunday Roast">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id=" Bubble &amp; Squeak" label=" Bubble &amp; Squeak">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Sticky Toffee Pudding" label="Sticky Toffee Pudding">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chocolate Souffle" label="Chocolate Souffle">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chicken Marengo" label="Chicken Marengo">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Pear Tarte Tatin" label="Pear Tarte Tatin">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chinon Apple Tarts" label="Chinon Apple Tarts">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Egg Drop Soup" label="Egg Drop Soup">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Apple Frangipan Tart" label="Apple Frangipan Tart">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Lamb and Potato pie" label="Lamb and Potato pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Lamb" />
+        </attvalues>
+      </node>
+      <node id="Pad See Ew" label="Pad See Ew">
+        <attvalues>
+          <attvalue for="0" value="Thai" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Kung Pao Chicken" label="Kung Pao Chicken">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Chicken Fajita Mac and Cheese" label="Chicken Fajita Mac and Cheese">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Shrimp Chow Fun" label="Shrimp Chow Fun">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Creamy Tomato Soup" label="Creamy Tomato Soup">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Starter" />
+        </attvalues>
+      </node>
+      <node id="Tandoori chicken" label="Tandoori chicken">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Beef Lo Mein" label="Beef Lo Mein">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Prawn &amp; Fennel Bisque" label="Prawn &amp; Fennel Bisque">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Side" />
+        </attvalues>
+      </node>
+      <node id="Choc Chip Pecan Pie" label="Choc Chip Pecan Pie">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Rocky Road Fudge" label="Rocky Road Fudge">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Seafood fideua" label="Seafood fideua">
+        <attvalues>
+          <attvalue for="0" value="Spanish" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Three Fish Pie" label="Three Fish Pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="New York cheesecake" label="New York cheesecake">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Key Lime Pie" label="Key Lime Pie">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Carrot Cake" label="Carrot Cake">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chicken &amp; Mushroom Hotpot" label="Chicken &amp; Mushroom Hotpot">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Spanish Tortillas" label="Spanish Tortillas">
+        <attvalues>
+          <attvalue for="0" value="Spanish" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Teriyaki Chicken Casserole" label="Teriyaki Chicken Casserole">
+        <attvalues>
+          <attvalue for="0" value="Japanese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Fennel Dauphinoise" label="Fennel Dauphinoise">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Side" />
+        </attvalues>
+      </node>
+      <node id="Beef Wellington" label="Beef Wellington">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Chicken Congee" label="Chicken Congee">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Madeira Cake" label="Madeira Cake">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Peach &amp; Blueberry Grunt" label="Peach &amp; Blueberry Grunt">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="English Breakfast" label="English Breakfast">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Breakfast" />
+        </attvalues>
+      </node>
+      <node id="Sweet and Sour Pork" label="Sweet and Sour Pork">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Parkin Cake" label="Parkin Cake">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Katsu Chicken curry" label="Katsu Chicken curry">
+        <attvalues>
+          <attvalue for="0" value="Japanese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Clam chowder" label="Clam chowder">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Starter" />
+        </attvalues>
+      </node>
+      <node id="Chicken Basquaise" label="Chicken Basquaise">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Kung Po Prawns" label="Kung Po Prawns">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Chicken Karaage" label="Chicken Karaage">
+        <attvalues>
+          <attvalue for="0" value="Japanese" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Summer Pistou" label="Summer Pistou">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Bread and Butter Pudding" label="Bread and Butter Pudding">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chicken Alfredo Primavera" label="Chicken Alfredo Primavera">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Pork Cassoulet" label="Pork Cassoulet">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Beef Dumpling Stew" label="Beef Dumpling Stew">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Tuna Nicoise" label="Tuna Nicoise">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Seafood" />
+        </attvalues>
+      </node>
+      <node id="Pancakes" label="Pancakes">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Hot Chocolate Fudge" label="Hot Chocolate Fudge">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Chicken Parmentier" label="Chicken Parmentier">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="French Onion Soup" label="French Onion Soup">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Side" />
+        </attvalues>
+      </node>
+      <node id="Minced Beef Pie" label="Minced Beef Pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="White chocolate creme brulee" label="White chocolate creme brulee">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Ratatouille" label="Ratatouille">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Chicken Ham and Leek Pie" label="Chicken Ham and Leek Pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Pumpkin Pie" label="Pumpkin Pie">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Ribollita" label="Ribollita">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Toad In The Hole" label="Toad In The Hole">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Steak Diane" label="Steak Diane">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="McSinghs Scotch pie" label="McSinghs Scotch pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Lamb" />
+        </attvalues>
+      </node>
+      <node id="Blackberry Fool" label="Blackberry Fool">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="French Omelette" label="French Omelette">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Miscellaneous" />
+        </attvalues>
+      </node>
+      <node id="Squash linguine" label="Squash linguine">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Apple &amp; Blackberry Crumble" label="Apple &amp; Blackberry Crumble">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Rock Cakes" label="Rock Cakes">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Baingan Bharta" label="Baingan Bharta">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Treacle Tart" label="Treacle Tart">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Coq au vin" label="Coq au vin">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Chicken" />
+        </attvalues>
+      </node>
+      <node id="Steak and Kidney Pie" label="Steak and Kidney Pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Yaki Udon" label="Yaki Udon">
+        <attvalues>
+          <attvalue for="0" value="Japanese" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Beef Brisket Pot Roast" label="Beef Brisket Pot Roast">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Lancashire hotpot" label="Lancashire hotpot">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Lamb" />
+        </attvalues>
+      </node>
+      <node id="Dundee cake" label="Dundee cake">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Broccoli &amp; Stilton soup" label="Broccoli &amp; Stilton soup">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Starter" />
+        </attvalues>
+      </node>
+      <node id="Ma Po Tofu" label="Ma Po Tofu">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" label="Roasted Eggplant With Tahini, Pine Nuts, and Lentils">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Pilchard puttanesca" label="Pilchard puttanesca">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Pasta" />
+        </attvalues>
+      </node>
+      <node id="Fettucine alfredo" label="Fettucine alfredo">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Pasta" />
+        </attvalues>
+      </node>
+      <node id="Flamiche" label="Flamiche">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Bakewell tart" label="Bakewell tart">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Matar Paneer" label="Matar Paneer">
+        <attvalues>
+          <attvalue for="0" value="Indian" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Beef and Mustard Pie" label="Beef and Mustard Pie">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="Smoky Lentil Chili with Squash" label="Smoky Lentil Chili with Squash">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Vegetarian" />
+        </attvalues>
+      </node>
+      <node id="Chili prawn linguine" label="Chili prawn linguine">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Pasta" />
+        </attvalues>
+      </node>
+      <node id="Brie wrapped in prosciutto &amp; brioche" label="Brie wrapped in prosciutto &amp; brioche">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Side" />
+        </attvalues>
+      </node>
+      <node id="Chelsea Buns" label="Chelsea Buns">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Lasagne" label="Lasagne">
+        <attvalues>
+          <attvalue for="0" value="Italian" />
+          <attvalue for="1" value="Pasta" />
+        </attvalues>
+      </node>
+      <node id="Jam Roly-Poly" label="Jam Roly-Poly">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Vegan Chocolate Cake" label="Vegan Chocolate Cake">
+        <attvalues>
+          <attvalue for="0" value="American" />
+          <attvalue for="1" value="Vegan" />
+        </attvalues>
+      </node>
+      <node id="Wontons" label="Wontons">
+        <attvalues>
+          <attvalue for="0" value="Chinese" />
+          <attvalue for="1" value="Pork" />
+        </attvalues>
+      </node>
+      <node id="Spotted Dick" label="Spotted Dick">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Desert" />
+        </attvalues>
+      </node>
+      <node id="Beef Bourguignon" label="Beef Bourguignon">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Beef" />
+        </attvalues>
+      </node>
+      <node id="French Lentils With Garlic and Thyme" label="French Lentils With Garlic and Thyme">
+        <attvalues>
+          <attvalue for="0" value="French" />
+          <attvalue for="1" value="Miscellaneous" />
+        </attvalues>
+      </node>
+      <node id="Full English Breakfast" label="Full English Breakfast">
+        <attvalues>
+          <attvalue for="0" value="British" />
+          <attvalue for="1" value="Breakfast" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Kidney Bean Curry" target="Chicken Handi" weight="0.42105263157894735" />
+      <edge id="1" source="Kidney Bean Curry" target="Tandoori chicken" weight="0.4375" />
+      <edge id="2" source="Kidney Bean Curry" target="Matar Paneer" weight="0.29411764705882354" />
+      <edge id="3" source="Dal fry" target="Chicken Handi" weight="0.2916666666666667" />
+      <edge id="4" source="Dal fry" target="Matar Paneer" weight="0.3" />
+      <edge id="5" source="Garides Saganaki" target="Turkey Meatloaf" weight="0.26666666666666666" />
+      <edge id="6" source="Garides Saganaki" target="Prawn &amp; Fennel Bisque" weight="0.26666666666666666" />
+      <edge id="7" source="Garides Saganaki" target="Seafood fideua" weight="0.375" />
+      <edge id="8" source="Garides Saganaki" target="Spanish Tortillas" weight="0.4166666666666667" />
+      <edge id="9" source="Garides Saganaki" target="Ratatouille" weight="0.2857142857142857" />
+      <edge id="10" source="Turkey Meatloaf" target="Spaghetti Bolognese" weight="0.2777777777777778" />
+      <edge id="11" source="Turkey Meatloaf" target="Spanish Tortillas" weight="0.3333333333333333" />
+      <edge id="12" source="Turkey Meatloaf" target="Pork Cassoulet" weight="0.2857142857142857" />
+      <edge id="13" source="Battenberg Cake" target="Chocolate Gateau" weight="0.2857142857142857" />
+      <edge id="14" source="Battenberg Cake" target="Sticky Toffee Pudding Ultimate" weight="0.2631578947368421" />
+      <edge id="15" source="Battenberg Cake" target="Sticky Toffee Pudding" weight="0.375" />
+      <edge id="16" source="Battenberg Cake" target="Apple Frangipan Tart" weight="0.35714285714285715" />
+      <edge id="17" source="Battenberg Cake" target="Choc Chip Pecan Pie" weight="0.29411764705882354" />
+      <edge id="18" source="Battenberg Cake" target="New York cheesecake" weight="0.26666666666666666" />
+      <edge id="19" source="Battenberg Cake" target="Madeira Cake" weight="0.26666666666666666" />
+      <edge id="20" source="Battenberg Cake" target="Pumpkin Pie" weight="0.2777777777777778" />
+      <edge id="21" source="Battenberg Cake" target="Rock Cakes" weight="0.42857142857142855" />
+      <edge id="22" source="Battenberg Cake" target="Dundee cake" weight="0.35294117647058826" />
+      <edge id="23" source="Battenberg Cake" target="Bakewell tart" weight="0.42857142857142855" />
+      <edge id="24" source="Battenberg Cake" target="Vegan Chocolate Cake" weight="0.3333333333333333" />
+      <edge id="25" source="Chicken Handi" target="Tandoori chicken" weight="0.4" />
+      <edge id="26" source="Chicken Handi" target="Baingan Bharta" weight="0.3888888888888889" />
+      <edge id="27" source="Chicken Handi" target="Matar Paneer" weight="0.35" />
+      <edge id="28" source="Beef and Oyster pie" target="Beef Dumpling Stew" weight="0.3333333333333333" />
+      <edge id="29" source="Beef and Oyster pie" target="French Onion Soup" weight="0.2631578947368421" />
+      <edge id="30" source="Beef and Oyster pie" target="Coq au vin" weight="0.34782608695652173" />
+      <edge id="31" source="Beef and Oyster pie" target="Beef Brisket Pot Roast" weight="0.3157894736842105" />
+      <edge id="32" source="Beef and Oyster pie" target="Beef and Mustard Pie" weight="0.2608695652173913" />
+      <edge id="33" source="Beef and Oyster pie" target="Beef Bourguignon" weight="0.2608695652173913" />
+      <edge id="34" source="Beef and Oyster pie" target="French Lentils With Garlic and Thyme" weight="0.2777777777777778" />
+      <edge id="35" source="Hot and Sour Soup" target="Szechuan Beef" weight="0.3076923076923077" />
+      <edge id="36" source="Hot and Sour Soup" target="Egg Drop Soup" weight="0.6" />
+      <edge id="37" source="Hot and Sour Soup" target="Shrimp Chow Fun" weight="0.2916666666666667" />
+      <edge id="38" source="Hot and Sour Soup" target="Beef Lo Mein" weight="0.2916666666666667" />
+      <edge id="39" source="Hot and Sour Soup" target="Sweet and Sour Pork" weight="0.3333333333333333" />
+      <edge id="40" source="Hot and Sour Soup" target="Yaki Udon" weight="0.2631578947368421" />
+      <edge id="41" source="Hot and Sour Soup" target="Ma Po Tofu" weight="0.38095238095238093" />
+      <edge id="42" source="Spaghetti Bolognese" target="Braised Beef Chili" weight="0.2608695652173913" />
+      <edge id="43" source="Spaghetti Bolognese" target="Minced Beef Pie" weight="0.375" />
+      <edge id="44" source="Spaghetti Bolognese" target="Pilchard puttanesca" weight="0.4" />
+      <edge id="45" source="Spaghetti Bolognese" target="Lasagne" weight="0.35" />
+      <edge id="46" source="Eccles Cakes" target="Chocolate Gateau" weight="0.3333333333333333" />
+      <edge id="47" source="Eccles Cakes" target="New York cheesecake" weight="0.3076923076923077" />
+      <edge id="48" source="Eccles Cakes" target="Carrot Cake" weight="0.3125" />
+      <edge id="49" source="Eccles Cakes" target="Madeira Cake" weight="0.5454545454545454" />
+      <edge id="50" source="Eccles Cakes" target="Peach &amp; Blueberry Grunt" weight="0.2857142857142857" />
+      <edge id="51" source="Eccles Cakes" target="Parkin Cake" weight="0.35714285714285715" />
+      <edge id="52" source="Eccles Cakes" target="Bread and Butter Pudding" weight="0.26666666666666666" />
+      <edge id="53" source="Eccles Cakes" target="Pumpkin Pie" weight="0.3125" />
+      <edge id="54" source="Eccles Cakes" target="Apple &amp; Blackberry Crumble" weight="0.3076923076923077" />
+      <edge id="55" source="Eccles Cakes" target="Rock Cakes" weight="0.2857142857142857" />
+      <edge id="56" source="Eccles Cakes" target="Treacle Tart" weight="0.3333333333333333" />
+      <edge id="57" source="Eccles Cakes" target="Bakewell tart" weight="0.2857142857142857" />
+      <edge id="58" source="Eccles Cakes" target="Brie wrapped in prosciutto &amp; brioche" weight="0.2857142857142857" />
+      <edge id="59" source="Eccles Cakes" target="Chelsea Buns" weight="0.3333333333333333" />
+      <edge id="60" source="Eccles Cakes" target="Spotted Dick" weight="0.26666666666666666" />
+      <edge id="61" source="Fish pie" target="Three Fish Pie" weight="0.3157894736842105" />
+      <edge id="62" source="Osso Buco alla Milanese" target="Venetian Duck Ragu" weight="0.28" />
+      <edge id="63" source="Osso Buco alla Milanese" target="Fish Stew with Rouille" weight="0.2962962962962963" />
+      <edge id="64" source="Osso Buco alla Milanese" target="Prawn &amp; Fennel Bisque" weight="0.2727272727272727" />
+      <edge id="65" source="Osso Buco alla Milanese" target="Spanish Tortillas" weight="0.3" />
+      <edge id="66" source="Osso Buco alla Milanese" target="Chicken Basquaise" weight="0.2962962962962963" />
+      <edge id="67" source="Osso Buco alla Milanese" target="Beef Dumpling Stew" weight="0.34615384615384615" />
+      <edge id="68" source="Osso Buco alla Milanese" target="Chicken Parmentier" weight="0.2692307692307692" />
+      <edge id="69" source="Osso Buco alla Milanese" target="French Onion Soup" weight="0.2857142857142857" />
+      <edge id="70" source="Osso Buco alla Milanese" target="Coq au vin" weight="0.25925925925925924" />
+      <edge id="71" source="Osso Buco alla Milanese" target="Lancashire hotpot" weight="0.2857142857142857" />
+      <edge id="72" source="Osso Buco alla Milanese" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.28" />
+      <edge id="73" source="Osso Buco alla Milanese" target="French Lentils With Garlic and Thyme" weight="0.3" />
+      <edge id="74" source="Spinach &amp; Ricotta Cannelloni" target="Spicy Arrabiata Penne" weight="0.29411764705882354" />
+      <edge id="75" source="Spinach &amp; Ricotta Cannelloni" target="Venetian Duck Ragu" weight="0.2608695652173913" />
+      <edge id="76" source="Spinach &amp; Ricotta Cannelloni" target="Summer Pistou" weight="0.2777777777777778" />
+      <edge id="77" source="Spinach &amp; Ricotta Cannelloni" target="Ratatouille" weight="0.3333333333333333" />
+      <edge id="78" source="Spinach &amp; Ricotta Cannelloni" target="Lasagne" weight="0.2608695652173913" />
+      <edge id="79" source="Chocolate Gateau" target="Tarte Tatin" weight="0.3333333333333333" />
+      <edge id="80" source="Chocolate Gateau" target="Three-cheese souffles" weight="0.2857142857142857" />
+      <edge id="81" source="Chocolate Gateau" target="Chocolate Raspberry Brownies" weight="0.4444444444444444" />
+      <edge id="82" source="Chocolate Gateau" target="Sticky Toffee Pudding Ultimate" weight="0.38461538461538464" />
+      <edge id="83" source="Chocolate Gateau" target="Beef Sunday Roast" weight="0.2727272727272727" />
+      <edge id="84" source="Chocolate Gateau" target="Sticky Toffee Pudding" weight="0.45454545454545453" />
+      <edge id="85" source="Chocolate Gateau" target="Chocolate Souffle" weight="0.3" />
+      <edge id="86" source="Chocolate Gateau" target="Apple Frangipan Tart" weight="0.3" />
+      <edge id="87" source="Chocolate Gateau" target="Three Fish Pie" weight="0.3076923076923077" />
+      <edge id="88" source="Chocolate Gateau" target="New York cheesecake" weight="0.4444444444444444" />
+      <edge id="89" source="Chocolate Gateau" target="Carrot Cake" weight="0.3076923076923077" />
+      <edge id="90" source="Chocolate Gateau" target="Madeira Cake" weight="0.625" />
+      <edge id="91" source="Chocolate Gateau" target="Peach &amp; Blueberry Grunt" weight="0.4" />
+      <edge id="92" source="Chocolate Gateau" target="Parkin Cake" weight="0.5" />
+      <edge id="93" source="Chocolate Gateau" target="Bread and Butter Pudding" weight="0.36363636363636365" />
+      <edge id="94" source="Chocolate Gateau" target="Pancakes" weight="0.4444444444444444" />
+      <edge id="95" source="Chocolate Gateau" target="Pumpkin Pie" weight="0.4166666666666667" />
+      <edge id="96" source="Chocolate Gateau" target="Toad In The Hole" weight="0.3" />
+      <edge id="97" source="Chocolate Gateau" target="Apple &amp; Blackberry Crumble" weight="0.3" />
+      <edge id="98" source="Chocolate Gateau" target="Rock Cakes" weight="0.5555555555555556" />
+      <edge id="99" source="Chocolate Gateau" target="Treacle Tart" weight="0.3333333333333333" />
+      <edge id="100" source="Chocolate Gateau" target="Dundee cake" weight="0.4166666666666667" />
+      <edge id="101" source="Chocolate Gateau" target="Bakewell tart" weight="0.4" />
+      <edge id="102" source="Chocolate Gateau" target="Brie wrapped in prosciutto &amp; brioche" weight="0.5555555555555556" />
+      <edge id="103" source="Chocolate Gateau" target="Chelsea Buns" weight="0.45454545454545453" />
+      <edge id="104" source="Chocolate Gateau" target="Jam Roly-Poly" weight="0.3" />
+      <edge id="105" source="Chocolate Gateau" target="Vegan Chocolate Cake" weight="0.2727272727272727" />
+      <edge id="106" source="General Tso's Chicken" target="Kung Pao Chicken" weight="0.30434782608695654" />
+      <edge id="107" source="General Tso's Chicken" target="Beef Lo Mein" weight="0.3076923076923077" />
+      <edge id="108" source="General Tso's Chicken" target="Katsu Chicken curry" weight="0.28" />
+      <edge id="109" source="General Tso's Chicken" target="Ma Po Tofu" weight="0.28" />
+      <edge id="110" source="General Tso's Chicken" target="Wontons" weight="0.2727272727272727" />
+      <edge id="111" source="Szechuan Beef" target="Shrimp Chow Fun" weight="0.37037037037037035" />
+      <edge id="112" source="Szechuan Beef" target="Beef Lo Mein" weight="0.6086956521739131" />
+      <edge id="113" source="Szechuan Beef" target="Ma Po Tofu" weight="0.2962962962962963" />
+      <edge id="114" source="Szechuan Beef" target="Wontons" weight="0.34782608695652173" />
+      <edge id="115" source="Tarte Tatin" target="Pear Tarte Tatin" weight="0.2727272727272727" />
+      <edge id="116" source="Tarte Tatin" target="Chinon Apple Tarts" weight="0.3" />
+      <edge id="117" source="Tarte Tatin" target="Apple Frangipan Tart" weight="0.3" />
+      <edge id="118" source="Tarte Tatin" target="New York cheesecake" weight="0.3" />
+      <edge id="119" source="Tarte Tatin" target="Madeira Cake" weight="0.3" />
+      <edge id="120" source="Tarte Tatin" target="Peach &amp; Blueberry Grunt" weight="0.2727272727272727" />
+      <edge id="121" source="Tarte Tatin" target="Apple &amp; Blackberry Crumble" weight="0.4444444444444444" />
+      <edge id="122" source="Tarte Tatin" target="Rock Cakes" weight="0.2727272727272727" />
+      <edge id="123" source="Tarte Tatin" target="Bakewell tart" weight="0.2727272727272727" />
+      <edge id="124" source="Tarte Tatin" target="Brie wrapped in prosciutto &amp; brioche" weight="0.2727272727272727" />
+      <edge id="125" source="Spicy Arrabiata Penne" target="Venetian Duck Ragu" weight="0.2777777777777778" />
+      <edge id="126" source="Spicy Arrabiata Penne" target="Summer Pistou" weight="0.3076923076923077" />
+      <edge id="127" source="Spicy Arrabiata Penne" target="Ratatouille" weight="0.2857142857142857" />
+      <edge id="128" source="Spicy Arrabiata Penne" target="Squash linguine" weight="0.3" />
+      <edge id="129" source="Spicy Arrabiata Penne" target="Chili prawn linguine" weight="0.3125" />
+      <edge id="130" source="Spicy Arrabiata Penne" target="Lasagne" weight="0.2777777777777778" />
+      <edge id="131" source="Vegetarian Casserole" target="Summer Pistou" weight="0.2777777777777778" />
+      <edge id="132" source="Vegetarian Casserole" target="Ratatouille" weight="0.2631578947368421" />
+      <edge id="133" source="Vegetarian Casserole" target="Ribollita" weight="0.2857142857142857" />
+      <edge id="134" source="Vegetarian Casserole" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.2608695652173913" />
+      <edge id="135" source="Vegetarian Casserole" target="Smoky Lentil Chili with Squash" weight="0.2692307692307692" />
+      <edge id="136" source="Vegetarian Casserole" target="French Lentils With Garlic and Thyme" weight="0.35294117647058826" />
+      <edge id="137" source="Braised Beef Chili" target="Smoky Lentil Chili with Squash" weight="0.2857142857142857" />
+      <edge id="138" source="Venetian Duck Ragu" target="Creamy Tomato Soup" weight="0.2727272727272727" />
+      <edge id="139" source="Venetian Duck Ragu" target="Ribollita" weight="0.2727272727272727" />
+      <edge id="140" source="Venetian Duck Ragu" target="Coq au vin" weight="0.28" />
+      <edge id="141" source="Three-cheese souffles" target="Sticky Toffee Pudding Ultimate" weight="0.2631578947368421" />
+      <edge id="142" source="Three-cheese souffles" target="Sticky Toffee Pudding" weight="0.29411764705882354" />
+      <edge id="143" source="Three-cheese souffles" target="Three Fish Pie" weight="0.2777777777777778" />
+      <edge id="144" source="Three-cheese souffles" target="Fennel Dauphinoise" weight="0.26666666666666666" />
+      <edge id="145" source="Three-cheese souffles" target="Madeira Cake" weight="0.26666666666666666" />
+      <edge id="146" source="Three-cheese souffles" target="Clam chowder" weight="0.2777777777777778" />
+      <edge id="147" source="Three-cheese souffles" target="French Omelette" weight="0.26666666666666666" />
+      <edge id="148" source="Three-cheese souffles" target="Fettucine alfredo" weight="0.26666666666666666" />
+      <edge id="149" source="Chocolate Raspberry Brownies" target="Choc Chip Pecan Pie" weight="0.3076923076923077" />
+      <edge id="150" source="Chocolate Raspberry Brownies" target="New York cheesecake" weight="0.2727272727272727" />
+      <edge id="151" source="Chocolate Raspberry Brownies" target="Madeira Cake" weight="0.2727272727272727" />
+      <edge id="152" source="Chocolate Raspberry Brownies" target="Pancakes" weight="0.2727272727272727" />
+      <edge id="153" source="Chocolate Raspberry Brownies" target="Treacle Tart" weight="0.3" />
+      <edge id="154" source="Boulangere Potatoes" target="Lamb and Potato pie" weight="0.2727272727272727" />
+      <edge id="155" source="Boulangere Potatoes" target="Creamy Tomato Soup" weight="0.2857142857142857" />
+      <edge id="156" source="Boulangere Potatoes" target="Spanish Tortillas" weight="0.2727272727272727" />
+      <edge id="157" source="Boulangere Potatoes" target="Tuna Nicoise" weight="0.2727272727272727" />
+      <edge id="158" source="Boulangere Potatoes" target="Broccoli &amp; Stilton soup" weight="0.2727272727272727" />
+      <edge id="159" source="Boulangere Potatoes" target="French Lentils With Garlic and Thyme" weight="0.2727272727272727" />
+      <edge id="160" source="Fish Stew with Rouille" target="Prawn &amp; Fennel Bisque" weight="0.3181818181818182" />
+      <edge id="161" source="Fish Stew with Rouille" target="Seafood fideua" weight="0.28" />
+      <edge id="162" source="Salted Caramel Cheescake" target="Key Lime Pie" weight="0.3076923076923077" />
+      <edge id="163" source="Sticky Toffee Pudding Ultimate" target="Sticky Toffee Pudding" weight="0.6923076923076923" />
+      <edge id="164" source="Sticky Toffee Pudding Ultimate" target="New York cheesecake" weight="0.26666666666666666" />
+      <edge id="165" source="Sticky Toffee Pudding Ultimate" target="Carrot Cake" weight="0.2777777777777778" />
+      <edge id="166" source="Sticky Toffee Pudding Ultimate" target="Madeira Cake" weight="0.35714285714285715" />
+      <edge id="167" source="Sticky Toffee Pudding Ultimate" target="Parkin Cake" weight="0.4" />
+      <edge id="168" source="Sticky Toffee Pudding Ultimate" target="Bread and Butter Pudding" weight="0.3125" />
+      <edge id="169" source="Sticky Toffee Pudding Ultimate" target="Pancakes" weight="0.26666666666666666" />
+      <edge id="170" source="Sticky Toffee Pudding Ultimate" target="Pumpkin Pie" weight="0.2777777777777778" />
+      <edge id="171" source="Sticky Toffee Pudding Ultimate" target="Apple &amp; Blackberry Crumble" weight="0.26666666666666666" />
+      <edge id="172" source="Sticky Toffee Pudding Ultimate" target="Rock Cakes" weight="0.42857142857142855" />
+      <edge id="173" source="Sticky Toffee Pudding Ultimate" target="Dundee cake" weight="0.2777777777777778" />
+      <edge id="174" source="Sticky Toffee Pudding Ultimate" target="Brie wrapped in prosciutto &amp; brioche" weight="0.3333333333333333" />
+      <edge id="175" source="Sticky Toffee Pudding Ultimate" target="Chelsea Buns" weight="0.29411764705882354" />
+      <edge id="176" source="Sticky Toffee Pudding Ultimate" target="Jam Roly-Poly" weight="0.26666666666666666" />
+      <edge id="177" source="Sticky Toffee Pudding Ultimate" target="Vegan Chocolate Cake" weight="0.3333333333333333" />
+      <edge id="178" source="Beef Sunday Roast" target="Lamb and Potato pie" weight="0.3076923076923077" />
+      <edge id="179" source="Beef Sunday Roast" target="Three Fish Pie" weight="0.26666666666666666" />
+      <edge id="180" source="Beef Sunday Roast" target="Pancakes" weight="0.36363636363636365" />
+      <edge id="181" source=" Bubble &amp; Squeak" target="Spanish Tortillas" weight="0.36363636363636365" />
+      <edge id="182" source=" Bubble &amp; Squeak" target="Fennel Dauphinoise" weight="0.3" />
+      <edge id="183" source=" Bubble &amp; Squeak" target="Clam chowder" weight="0.3076923076923077" />
+      <edge id="184" source="Sticky Toffee Pudding" target="New York cheesecake" weight="0.3076923076923077" />
+      <edge id="185" source="Sticky Toffee Pudding" target="Carrot Cake" weight="0.3125" />
+      <edge id="186" source="Sticky Toffee Pudding" target="Madeira Cake" weight="0.4166666666666667" />
+      <edge id="187" source="Sticky Toffee Pudding" target="Peach &amp; Blueberry Grunt" weight="0.2857142857142857" />
+      <edge id="188" source="Sticky Toffee Pudding" target="Parkin Cake" weight="0.46153846153846156" />
+      <edge id="189" source="Sticky Toffee Pudding" target="Bread and Butter Pudding" weight="0.35714285714285715" />
+      <edge id="190" source="Sticky Toffee Pudding" target="Pancakes" weight="0.3076923076923077" />
+      <edge id="191" source="Sticky Toffee Pudding" target="Chicken Ham and Leek Pie" weight="0.2631578947368421" />
+      <edge id="192" source="Sticky Toffee Pudding" target="Pumpkin Pie" weight="0.3125" />
+      <edge id="193" source="Sticky Toffee Pudding" target="Blackberry Fool" weight="0.3125" />
+      <edge id="194" source="Sticky Toffee Pudding" target="Rock Cakes" weight="0.6363636363636364" />
+      <edge id="195" source="Sticky Toffee Pudding" target="Dundee cake" weight="0.4" />
+      <edge id="196" source="Sticky Toffee Pudding" target="Bakewell tart" weight="0.2857142857142857" />
+      <edge id="197" source="Sticky Toffee Pudding" target="Brie wrapped in prosciutto &amp; brioche" weight="0.38461538461538464" />
+      <edge id="198" source="Sticky Toffee Pudding" target="Chelsea Buns" weight="0.3333333333333333" />
+      <edge id="199" source="Sticky Toffee Pudding" target="Jam Roly-Poly" weight="0.3076923076923077" />
+      <edge id="200" source="Sticky Toffee Pudding" target="Vegan Chocolate Cake" weight="0.38461538461538464" />
+      <edge id="201" source="Chocolate Souffle" target="Key Lime Pie" weight="0.4" />
+      <edge id="202" source="Chocolate Souffle" target="White chocolate creme brulee" weight="0.3333333333333333" />
+      <edge id="203" source="Chicken Marengo" target="Coq au vin" weight="0.2631578947368421" />
+      <edge id="204" source="Egg Drop Soup" target="Beef Lo Mein" weight="0.2857142857142857" />
+      <edge id="205" source="Egg Drop Soup" target="Chicken Congee" weight="0.26666666666666666" />
+      <edge id="206" source="Egg Drop Soup" target="Ma Po Tofu" weight="0.3157894736842105" />
+      <edge id="207" source="Apple Frangipan Tart" target="New York cheesecake" weight="0.2727272727272727" />
+      <edge id="208" source="Apple Frangipan Tart" target="Madeira Cake" weight="0.2727272727272727" />
+      <edge id="209" source="Apple Frangipan Tart" target="Apple &amp; Blackberry Crumble" weight="0.2727272727272727" />
+      <edge id="210" source="Apple Frangipan Tart" target="Dundee cake" weight="0.2857142857142857" />
+      <edge id="211" source="Apple Frangipan Tart" target="Bakewell tart" weight="0.5" />
+      <edge id="212" source="Lamb and Potato pie" target="Katsu Chicken curry" weight="0.2631578947368421" />
+      <edge id="213" source="Lamb and Potato pie" target="Minced Beef Pie" weight="0.26666666666666666" />
+      <edge id="214" source="Lamb and Potato pie" target="Lancashire hotpot" weight="0.35714285714285715" />
+      <edge id="215" source="Pad See Ew" target="Kung Pao Chicken" weight="0.2631578947368421" />
+      <edge id="216" source="Pad See Ew" target="Shrimp Chow Fun" weight="0.3333333333333333" />
+      <edge id="217" source="Pad See Ew" target="Beef Lo Mein" weight="0.2727272727272727" />
+      <edge id="218" source="Pad See Ew" target="Sweet and Sour Pork" weight="0.3125" />
+      <edge id="219" source="Kung Pao Chicken" target="Kung Po Prawns" weight="0.4117647058823529" />
+      <edge id="220" source="Kung Pao Chicken" target="Wontons" weight="0.2631578947368421" />
+      <edge id="221" source="Chicken Fajita Mac and Cheese" target="Chicken Alfredo Primavera" weight="0.3181818181818182" />
+      <edge id="222" source="Chicken Fajita Mac and Cheese" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.2857142857142857" />
+      <edge id="223" source="Shrimp Chow Fun" target="Beef Lo Mein" weight="0.4782608695652174" />
+      <edge id="224" source="Shrimp Chow Fun" target="Ma Po Tofu" weight="0.28" />
+      <edge id="225" source="Shrimp Chow Fun" target="Wontons" weight="0.2727272727272727" />
+      <edge id="226" source="Creamy Tomato Soup" target="Ratatouille" weight="0.2777777777777778" />
+      <edge id="227" source="Creamy Tomato Soup" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.2727272727272727" />
+      <edge id="228" source="Creamy Tomato Soup" target="Lasagne" weight="0.2727272727272727" />
+      <edge id="229" source="Creamy Tomato Soup" target="French Lentils With Garlic and Thyme" weight="0.29411764705882354" />
+      <edge id="230" source="Tandoori chicken" target="Chicken Karaage" weight="0.3125" />
+      <edge id="231" source="Beef Lo Mein" target="Sweet and Sour Pork" weight="0.2857142857142857" />
+      <edge id="232" source="Beef Lo Mein" target="Yaki Udon" weight="0.2857142857142857" />
+      <edge id="233" source="Beef Lo Mein" target="Ma Po Tofu" weight="0.3333333333333333" />
+      <edge id="234" source="Beef Lo Mein" target="Wontons" weight="0.2727272727272727" />
+      <edge id="235" source="Prawn &amp; Fennel Bisque" target="Seafood fideua" weight="0.3157894736842105" />
+      <edge id="236" source="Choc Chip Pecan Pie" target="New York cheesecake" weight="0.3076923076923077" />
+      <edge id="237" source="Choc Chip Pecan Pie" target="Rock Cakes" weight="0.2857142857142857" />
+      <edge id="238" source="Rocky Road Fudge" target="Hot Chocolate Fudge" weight="0.42857142857142855" />
+      <edge id="239" source="Seafood fideua" target="Spanish Tortillas" weight="0.2777777777777778" />
+      <edge id="240" source="Three Fish Pie" target="Madeira Cake" weight="0.2857142857142857" />
+      <edge id="241" source="Three Fish Pie" target="Clam chowder" weight="0.29411764705882354" />
+      <edge id="242" source="Three Fish Pie" target="Chicken Ham and Leek Pie" weight="0.3157894736842105" />
+      <edge id="243" source="Three Fish Pie" target="French Omelette" weight="0.2857142857142857" />
+      <edge id="244" source="Three Fish Pie" target="Rock Cakes" weight="0.26666666666666666" />
+      <edge id="245" source="Three Fish Pie" target="Brie wrapped in prosciutto &amp; brioche" weight="0.26666666666666666" />
+      <edge id="246" source="New York cheesecake" target="Carrot Cake" weight="0.38461538461538464" />
+      <edge id="247" source="New York cheesecake" target="Madeira Cake" weight="0.4" />
+      <edge id="248" source="New York cheesecake" target="Parkin Cake" weight="0.3333333333333333" />
+      <edge id="249" source="New York cheesecake" target="Pancakes" weight="0.2727272727272727" />
+      <edge id="250" source="New York cheesecake" target="Pumpkin Pie" weight="0.2857142857142857" />
+      <edge id="251" source="New York cheesecake" target="Blackberry Fool" weight="0.2857142857142857" />
+      <edge id="252" source="New York cheesecake" target="Apple &amp; Blackberry Crumble" weight="0.2727272727272727" />
+      <edge id="253" source="New York cheesecake" target="Rock Cakes" weight="0.36363636363636365" />
+      <edge id="254" source="New York cheesecake" target="Treacle Tart" weight="0.3" />
+      <edge id="255" source="New York cheesecake" target="Dundee cake" weight="0.2857142857142857" />
+      <edge id="256" source="New York cheesecake" target="Bakewell tart" weight="0.36363636363636365" />
+      <edge id="257" source="New York cheesecake" target="Brie wrapped in prosciutto &amp; brioche" weight="0.36363636363636365" />
+      <edge id="258" source="New York cheesecake" target="Chelsea Buns" weight="0.3076923076923077" />
+      <edge id="259" source="Key Lime Pie" target="Fennel Dauphinoise" weight="0.2727272727272727" />
+      <edge id="260" source="Carrot Cake" target="Madeira Cake" weight="0.2857142857142857" />
+      <edge id="261" source="Carrot Cake" target="Peach &amp; Blueberry Grunt" weight="0.26666666666666666" />
+      <edge id="262" source="Carrot Cake" target="Pumpkin Pie" weight="0.375" />
+      <edge id="263" source="Carrot Cake" target="Apple &amp; Blackberry Crumble" weight="0.2857142857142857" />
+      <edge id="264" source="Carrot Cake" target="Rock Cakes" weight="0.26666666666666666" />
+      <edge id="265" source="Carrot Cake" target="Bakewell tart" weight="0.26666666666666666" />
+      <edge id="266" source="Carrot Cake" target="Brie wrapped in prosciutto &amp; brioche" weight="0.26666666666666666" />
+      <edge id="267" source="Carrot Cake" target="Chelsea Buns" weight="0.5" />
+      <edge id="268" source="Chicken &amp; Mushroom Hotpot" target="Lancashire hotpot" weight="0.3333333333333333" />
+      <edge id="269" source="Spanish Tortillas" target="Tuna Nicoise" weight="0.2857142857142857" />
+      <edge id="270" source="Spanish Tortillas" target="French Onion Soup" weight="0.26666666666666666" />
+      <edge id="271" source="Spanish Tortillas" target="Ratatouille" weight="0.26666666666666666" />
+      <edge id="272" source="Teriyaki Chicken Casserole" target="Chicken Karaage" weight="0.2857142857142857" />
+      <edge id="273" source="Teriyaki Chicken Casserole" target="Ma Po Tofu" weight="0.2631578947368421" />
+      <edge id="274" source="Fennel Dauphinoise" target="Clam chowder" weight="0.2857142857142857" />
+      <edge id="275" source="Fennel Dauphinoise" target="Chicken Alfredo Primavera" weight="0.2631578947368421" />
+      <edge id="276" source="Fennel Dauphinoise" target="Fettucine alfredo" weight="0.2727272727272727" />
+      <edge id="277" source="Beef Wellington" target="Minced Beef Pie" weight="0.2857142857142857" />
+      <edge id="278" source="Beef Wellington" target="Beef and Mustard Pie" weight="0.2777777777777778" />
+      <edge id="279" source="Chicken Congee" target="Ma Po Tofu" weight="0.2631578947368421" />
+      <edge id="280" source="Madeira Cake" target="Peach &amp; Blueberry Grunt" weight="0.36363636363636365" />
+      <edge id="281" source="Madeira Cake" target="Parkin Cake" weight="0.45454545454545453" />
+      <edge id="282" source="Madeira Cake" target="Bread and Butter Pudding" weight="0.3333333333333333" />
+      <edge id="283" source="Madeira Cake" target="Pancakes" weight="0.4" />
+      <edge id="284" source="Madeira Cake" target="Pumpkin Pie" weight="0.38461538461538464" />
+      <edge id="285" source="Madeira Cake" target="Toad In The Hole" weight="0.2727272727272727" />
+      <edge id="286" source="Madeira Cake" target="Blackberry Fool" weight="0.2857142857142857" />
+      <edge id="287" source="Madeira Cake" target="Apple &amp; Blackberry Crumble" weight="0.2727272727272727" />
+      <edge id="288" source="Madeira Cake" target="Rock Cakes" weight="0.5" />
+      <edge id="289" source="Madeira Cake" target="Treacle Tart" weight="0.4444444444444444" />
+      <edge id="290" source="Madeira Cake" target="Dundee cake" weight="0.38461538461538464" />
+      <edge id="291" source="Madeira Cake" target="Bakewell tart" weight="0.36363636363636365" />
+      <edge id="292" source="Madeira Cake" target="Brie wrapped in prosciutto &amp; brioche" weight="0.5" />
+      <edge id="293" source="Madeira Cake" target="Chelsea Buns" weight="0.4166666666666667" />
+      <edge id="294" source="Madeira Cake" target="Jam Roly-Poly" weight="0.2727272727272727" />
+      <edge id="295" source="Madeira Cake" target="Spotted Dick" weight="0.3333333333333333" />
+      <edge id="296" source="Peach &amp; Blueberry Grunt" target="Parkin Cake" weight="0.3076923076923077" />
+      <edge id="297" source="Peach &amp; Blueberry Grunt" target="Bread and Butter Pudding" weight="0.3076923076923077" />
+      <edge id="298" source="Peach &amp; Blueberry Grunt" target="Pancakes" weight="0.36363636363636365" />
+      <edge id="299" source="Peach &amp; Blueberry Grunt" target="Pumpkin Pie" weight="0.35714285714285715" />
+      <edge id="300" source="Peach &amp; Blueberry Grunt" target="Apple &amp; Blackberry Crumble" weight="0.36363636363636365" />
+      <edge id="301" source="Peach &amp; Blueberry Grunt" target="Rock Cakes" weight="0.3333333333333333" />
+      <edge id="302" source="Peach &amp; Blueberry Grunt" target="Dundee cake" weight="0.35714285714285715" />
+      <edge id="303" source="Peach &amp; Blueberry Grunt" target="Brie wrapped in prosciutto &amp; brioche" weight="0.3333333333333333" />
+      <edge id="304" source="Peach &amp; Blueberry Grunt" target="Chelsea Buns" weight="0.38461538461538464" />
+      <edge id="305" source="Peach &amp; Blueberry Grunt" target="Spotted Dick" weight="0.3076923076923077" />
+      <edge id="306" source="English Breakfast" target="Toad In The Hole" weight="0.2727272727272727" />
+      <edge id="307" source="English Breakfast" target="Full English Breakfast" weight="0.875" />
+      <edge id="308" source="Parkin Cake" target="Bread and Butter Pudding" weight="0.2857142857142857" />
+      <edge id="309" source="Parkin Cake" target="Pancakes" weight="0.3333333333333333" />
+      <edge id="310" source="Parkin Cake" target="Pumpkin Pie" weight="0.3333333333333333" />
+      <edge id="311" source="Parkin Cake" target="Rock Cakes" weight="0.4166666666666667" />
+      <edge id="312" source="Parkin Cake" target="Treacle Tart" weight="0.36363636363636365" />
+      <edge id="313" source="Parkin Cake" target="Dundee cake" weight="0.3333333333333333" />
+      <edge id="314" source="Parkin Cake" target="Bakewell tart" weight="0.3076923076923077" />
+      <edge id="315" source="Parkin Cake" target="Brie wrapped in prosciutto &amp; brioche" weight="0.4166666666666667" />
+      <edge id="316" source="Parkin Cake" target="Chelsea Buns" weight="0.35714285714285715" />
+      <edge id="317" source="Clam chowder" target="Beef Dumpling Stew" weight="0.2608695652173913" />
+      <edge id="318" source="Clam chowder" target="Coq au vin" weight="0.2727272727272727" />
+      <edge id="319" source="Clam chowder" target="Lancashire hotpot" weight="0.3125" />
+      <edge id="320" source="Clam chowder" target="Fettucine alfredo" weight="0.2857142857142857" />
+      <edge id="321" source="Chicken Basquaise" target="French Lentils With Garlic and Thyme" weight="0.2857142857142857" />
+      <edge id="322" source="Summer Pistou" target="Ratatouille" weight="0.26666666666666666" />
+      <edge id="323" source="Bread and Butter Pudding" target="Pumpkin Pie" weight="0.42857142857142855" />
+      <edge id="324" source="Bread and Butter Pudding" target="Rock Cakes" weight="0.3076923076923077" />
+      <edge id="325" source="Bread and Butter Pudding" target="Brie wrapped in prosciutto &amp; brioche" weight="0.3076923076923077" />
+      <edge id="326" source="Bread and Butter Pudding" target="Chelsea Buns" weight="0.35714285714285715" />
+      <edge id="327" source="Chicken Alfredo Primavera" target="Steak Diane" weight="0.2692307692307692" />
+      <edge id="328" source="Beef Dumpling Stew" target="French Onion Soup" weight="0.2727272727272727" />
+      <edge id="329" source="Beef Dumpling Stew" target="Ribollita" weight="0.2916666666666667" />
+      <edge id="330" source="Beef Dumpling Stew" target="Coq au vin" weight="0.2962962962962963" />
+      <edge id="331" source="Beef Dumpling Stew" target="Beef Brisket Pot Roast" weight="0.3181818181818182" />
+      <edge id="332" source="Beef Dumpling Stew" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.32" />
+      <edge id="333" source="Beef Dumpling Stew" target="Beef and Mustard Pie" weight="0.32" />
+      <edge id="334" source="Beef Dumpling Stew" target="Beef Bourguignon" weight="0.2692307692307692" />
+      <edge id="335" source="Beef Dumpling Stew" target="French Lentils With Garlic and Thyme" weight="0.35" />
+      <edge id="336" source="Pancakes" target="Pumpkin Pie" weight="0.2857142857142857" />
+      <edge id="337" source="Pancakes" target="Toad In The Hole" weight="0.2727272727272727" />
+      <edge id="338" source="Pancakes" target="Rock Cakes" weight="0.36363636363636365" />
+      <edge id="339" source="Pancakes" target="Dundee cake" weight="0.2857142857142857" />
+      <edge id="340" source="Pancakes" target="Brie wrapped in prosciutto &amp; brioche" weight="0.36363636363636365" />
+      <edge id="341" source="Pancakes" target="Chelsea Buns" weight="0.3076923076923077" />
+      <edge id="342" source="Hot Chocolate Fudge" target="White chocolate creme brulee" weight="0.42857142857142855" />
+      <edge id="343" source="Minced Beef Pie" target="Steak and Kidney Pie" weight="0.4666666666666667" />
+      <edge id="344" source="Ratatouille" target="Baingan Bharta" weight="0.26666666666666666" />
+      <edge id="345" source="Ratatouille" target="Chili prawn linguine" weight="0.2777777777777778" />
+      <edge id="346" source="Pumpkin Pie" target="Apple &amp; Blackberry Crumble" weight="0.2857142857142857" />
+      <edge id="347" source="Pumpkin Pie" target="Rock Cakes" weight="0.35714285714285715" />
+      <edge id="348" source="Pumpkin Pie" target="Dundee cake" weight="0.29411764705882354" />
+      <edge id="349" source="Pumpkin Pie" target="Flamiche" weight="0.29411764705882354" />
+      <edge id="350" source="Pumpkin Pie" target="Bakewell tart" weight="0.26666666666666666" />
+      <edge id="351" source="Pumpkin Pie" target="Brie wrapped in prosciutto &amp; brioche" weight="0.35714285714285715" />
+      <edge id="352" source="Pumpkin Pie" target="Chelsea Buns" weight="0.5" />
+      <edge id="353" source="Ribollita" target="Beef Brisket Pot Roast" weight="0.2631578947368421" />
+      <edge id="354" source="Ribollita" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.3333333333333333" />
+      <edge id="355" source="Ribollita" target="Lasagne" weight="0.3333333333333333" />
+      <edge id="356" source="Ribollita" target="French Lentils With Garlic and Thyme" weight="0.375" />
+      <edge id="357" source="Toad In The Hole" target="Chelsea Buns" weight="0.3076923076923077" />
+      <edge id="358" source="McSinghs Scotch pie" target="Baingan Bharta" weight="0.2777777777777778" />
+      <edge id="359" source="McSinghs Scotch pie" target="Beef and Mustard Pie" weight="0.2608695652173913" />
+      <edge id="360" source="Blackberry Fool" target="Apple &amp; Blackberry Crumble" weight="0.2857142857142857" />
+      <edge id="361" source="Blackberry Fool" target="Rock Cakes" weight="0.26666666666666666" />
+      <edge id="362" source="French Omelette" target="Fettucine alfredo" weight="0.2727272727272727" />
+      <edge id="363" source="Apple &amp; Blackberry Crumble" target="Chelsea Buns" weight="0.3076923076923077" />
+      <edge id="364" source="Rock Cakes" target="Treacle Tart" weight="0.2727272727272727" />
+      <edge id="365" source="Rock Cakes" target="Dundee cake" weight="0.5833333333333334" />
+      <edge id="366" source="Rock Cakes" target="Bakewell tart" weight="0.3333333333333333" />
+      <edge id="367" source="Rock Cakes" target="Brie wrapped in prosciutto &amp; brioche" weight="0.45454545454545453" />
+      <edge id="368" source="Rock Cakes" target="Chelsea Buns" weight="0.5" />
+      <edge id="369" source="Rock Cakes" target="Jam Roly-Poly" weight="0.36363636363636365" />
+      <edge id="370" source="Rock Cakes" target="Vegan Chocolate Cake" weight="0.45454545454545453" />
+      <edge id="371" source="Treacle Tart" target="Bakewell tart" weight="0.2727272727272727" />
+      <edge id="372" source="Treacle Tart" target="Brie wrapped in prosciutto &amp; brioche" weight="0.2727272727272727" />
+      <edge id="373" source="Coq au vin" target="Beef Bourguignon" weight="0.391304347826087" />
+      <edge id="374" source="Steak and Kidney Pie" target="Beef and Mustard Pie" weight="0.42105263157894735" />
+      <edge id="375" source="Beef Brisket Pot Roast" target="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" weight="0.3" />
+      <edge id="376" source="Beef Brisket Pot Roast" target="Beef and Mustard Pie" weight="0.3684210526315789" />
+      <edge id="377" source="Beef Brisket Pot Roast" target="French Lentils With Garlic and Thyme" weight="0.42857142857142855" />
+      <edge id="378" source="Dundee cake" target="Bakewell tart" weight="0.35714285714285715" />
+      <edge id="379" source="Dundee cake" target="Brie wrapped in prosciutto &amp; brioche" weight="0.35714285714285715" />
+      <edge id="380" source="Dundee cake" target="Chelsea Buns" weight="0.4" />
+      <edge id="381" source="Dundee cake" target="Vegan Chocolate Cake" weight="0.26666666666666666" />
+      <edge id="382" source="Ma Po Tofu" target="Wontons" weight="0.3" />
+      <edge id="383" source="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" target="Smoky Lentil Chili with Squash" weight="0.25925925925925924" />
+      <edge id="384" source="Roasted Eggplant With Tahini, Pine Nuts, and Lentils" target="French Lentils With Garlic and Thyme" weight="0.5" />
+      <edge id="385" source="Pilchard puttanesca" target="Lasagne" weight="0.2631578947368421" />
+      <edge id="386" source="Bakewell tart" target="Brie wrapped in prosciutto &amp; brioche" weight="0.3333333333333333" />
+      <edge id="387" source="Bakewell tart" target="Chelsea Buns" weight="0.2857142857142857" />
+      <edge id="388" source="Brie wrapped in prosciutto &amp; brioche" target="Chelsea Buns" weight="0.5" />
+      <edge id="389" source="Chelsea Buns" target="Spotted Dick" weight="0.26666666666666666" />
+      <edge id="390" source="Lasagne" target="French Lentils With Garlic and Thyme" weight="0.2631578947368421" />
+      <edge id="391" source="Jam Roly-Poly" target="Spotted Dick" weight="0.3333333333333333" />
+      <edge id="392" source="Beef Bourguignon" target="French Lentils With Garlic and Thyme" weight="0.2631578947368421" />
+    </edges>
+  </graph>
+</gexf>
